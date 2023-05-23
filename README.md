@@ -1,2 +1,1 @@
-# multifile-domxss-dataset
-DICOMO2023の公開データセット
+# DICOMO2023開始までに公開予定
